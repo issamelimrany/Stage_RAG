@@ -1,0 +1,5 @@
+chainlit
+langchain
+langchain_community
+PyPDF2
+chromadb

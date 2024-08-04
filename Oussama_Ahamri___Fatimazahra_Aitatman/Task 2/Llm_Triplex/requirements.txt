@@ -1,0 +1,13 @@
+torch 
+sentence_transformers 
+transformers 
+accelerate
+langchain
+langchain-experimental
+langchain-community
+faiss-cpu
+pdfplumber
+gradio
+ollama
+pypdf
+charset_normalizer
